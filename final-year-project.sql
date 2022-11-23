@@ -7,7 +7,7 @@ select * from student_users;
 
 CREATE DATABASE IF NOT EXISTS jntucek;
 
-alter user 'root'@'localhost' identified with mysql_native_password by 'sandyblaze';
+alter user 'root'@'localhost' identified with mysql_native_password by 'password';
 
 use jntucek;
 
